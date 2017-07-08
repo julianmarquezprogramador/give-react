@@ -4,8 +4,7 @@
 
 Instrucciones
 -------------
-Clonar la rama
-Luego del init hay que presionar "enter" a todo lo que pida
+Clonar la rama, luego del init hay que presionar "enter" a todo lo que pida
 
 + npm init
 + npm i webpack webpack-dev-server --save-dev
