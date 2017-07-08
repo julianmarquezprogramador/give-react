@@ -4,9 +4,14 @@
 
 Instrucciones
 -------------
-Clonar la rama, luego del init hay que presionar "enter" a todo lo que pida
+Clonar la rama 
+
+**Ejecutar los siguientes comandos por consola
 
 + npm init
+
+(luego del __npm init__ hay que presionar "enter" a todo lo que pida)
+
 + npm i webpack webpack-dev-server --save-dev
 + npm i babel-core babel-loader babel-preset-react babel-preset-es2015 babel-preset-stage-1 opener -D
 + npm i react react-dom --save
