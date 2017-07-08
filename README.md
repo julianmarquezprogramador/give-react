@@ -4,7 +4,7 @@
 
 Instrucciones
 -------------
-Clonar la rama develop
+Clonar la rama
 + npm init
 enter a todo lo que te pida
 Ahora vamos a instalar webpack
