@@ -4,9 +4,9 @@
 
 Instrucciones
 -------------
-Clonar la rama 
++Clonar la rama 
 
-**Ejecutar los siguientes comandos por consola
+__**Ejecutar los siguientes comandos por consola__
 
 + npm init
 
