@@ -11,7 +11,6 @@ Ahora vamos a instalar webpack
 + npm i webpack webpack-dev-server --save-dev
 vamos a instalar babel
 + npm i babel-core babel-loader babel-preset-react babel-preset-es2015 babel-preset-stage-1 opener -D
--D es lo mismo que --save-dev
 react
 + npm i react react-dom --save
 
